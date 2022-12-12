@@ -1,9 +1,14 @@
-def main:
-    print("mqifjqijfqjfqj")
-    print("я не делал проект")
-    print("а мне новый задали")
+def my_superfunction():
+    print('What an awesome print!')
 
 
-if __name__ == "__main__":
+def main():
+    print('My first git program')
+    print('And I change it every day')
+    print('Again')
+    print('UFO came and added this line')
+    my_superfunction()
+
+
+if __name__ == '__main__':
     main()
-4
